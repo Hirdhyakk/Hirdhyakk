@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://hirdhyakhanna-portfolio.netlify.app/](https://hirdhyakhanna-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://hirdhyakhanna.netlify.app/](https://hirdhyakhanna.netlify.app/)
 
 - 💬 Ask me about **MERN, JAVA**
 
